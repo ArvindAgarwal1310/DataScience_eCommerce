@@ -1,0 +1,2 @@
+Business Analytics with Sales Data--(Customers, Transactions and Products)
+It contains a set of scripts for analyzing sales data across customers, transactions, and products. It provides key insights into the business performance, customer behavior, and product sales. The analysis is performed using Python and various libraries, including pandas, matplotlib, seaborn, and fpdf for generating PDF reports.
